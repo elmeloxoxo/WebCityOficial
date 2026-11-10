@@ -151,7 +151,7 @@ export type Plan = {
 export const webPlans: Plan[] = [
   {
     name: "Presencia",
-    price: "S/ 1,200",
+    price: "S/ 350",
     priceNote: "pago único · desde",
     summary: "Para emprendedores que necesitan una primera página profesional y directa.",
     features: [
@@ -167,7 +167,7 @@ export const webPlans: Plan[] = [
   {
     name: "Crecimiento",
     badge: "Más elegido",
-    price: "S/ 2,800",
+    price: "S/ 550",
     priceNote: "pago único · desde",
     summary: "Para negocios que quieren mostrar todo lo que hacen y aparecer en Google.",
     features: [
@@ -183,7 +183,7 @@ export const webPlans: Plan[] = [
   },
   {
     name: "Tienda",
-    price: "S/ 5,500",
+    price: "S/ 1,000",
     priceNote: "pago único · desde",
     summary: "Para vender en línea con pagos, inventario y una experiencia de compra cuidada.",
     features: [

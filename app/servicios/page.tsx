@@ -194,7 +194,10 @@ export default function ServiciosPage() {
 
           <p className="pricing-note">
             <Icon name="shield" />
-            Pago en dos partes (50% al inicio y 50% al entregar). Los emprendedores
+            • Los precios son referenciales y pueden variar según los requerimientos.<br />
+            • Dominio y hosting se cotizan por separado.<br />
+            • Las integraciones y funcionalidades especiales se presupuestan según su complejidad.<br />
+            • Pago en dos partes (50% al inicio y 50% al entregar). Los emprendedores
             pueden dividirlo en tres pagos sin intereses.
           </p>
         </div>
